@@ -20,7 +20,7 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/rs/cors v1.6.0
 	github.com/sebest/xff v0.0.0-20160910043805-6c115e0ffa35
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/spf13/cobra v0.0.4-0.20190321000552-67fc4837d267
 	github.com/stretchr/testify v1.7.0
 	github.com/stripe/stripe-go v62.9.0+incompatible
@@ -45,7 +45,7 @@ require (
 	go.uber.org/zap v1.19.1 // indirect
 	golang.org/x/net v0.0.0-20211020060615-d418f374d309 // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
-	golang.org/x/sys v0.0.0-20211209171907-798191bca915 // indirect
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
 	golang.org/x/text v0.3.6 // indirect
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
 	google.golang.org/api v0.61.0 // indirect
